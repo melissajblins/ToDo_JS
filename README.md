@@ -1,4 +1,4 @@
-# To Do - Lista de tarefas online
+# To Do | Tarefas Online
 Adicione e manipule seus afazeres cotidianos.
 
 ## Sobre o projeto
