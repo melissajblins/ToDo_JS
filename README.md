@@ -5,7 +5,7 @@ Adicione e manipule seus afazeres cotidianos.
 
 
 ## Sobre o projeto
-A aplicação foi desenvolvida ao longo de dois cursos, o primeiro focado em manipular o DOM com JavaScript e o segundo em armazenagem de dados no navegadpr. Com o MarkMe é possivel adicionar tarefas a serem realizadas, as quais estão organizadas por data e hora. Depois de concluídas, elas podem ser marcadas e deletadas. 
+A aplicação foi desenvolvida ao longo de dois cursos, o primeiro focado em manipular o DOM com JavaScript e o segundo em armazenagem de dados no navegador. Com o MarkMe é possivel adicionar tarefas a serem realizadas, as quais estão organizadas por data e hora. Depois de concluídas, elas podem ser marcadas e deletadas. 
 
 
 ### Conceitos e processos
