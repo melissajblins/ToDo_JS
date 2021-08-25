@@ -14,4 +14,4 @@ A aplicação foi desenvolvida ao longo de dois cursos, o primeiro focado em man
 * Template String;
 * Modularização de código; 
 * API de datas;
-* Armazenagem com Local Storage;
+* Armazenagem com Local Storage.
